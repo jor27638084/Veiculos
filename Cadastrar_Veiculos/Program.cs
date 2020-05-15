@@ -121,9 +121,9 @@ namespace Cadastrar_Veiculos
                             case 2:
                                 exibirCaminhoes(truck, c);
                                 break;
-                            case 3:
-                                //exibirVeiculos(car, truck, v);
-                                break;
+                            /*case 3:
+                               exibirVeiculos(car, truck, v);
+                                break;*/
                             default:
                                 Console.WriteLine("Opção Inválida");
                                 break;
