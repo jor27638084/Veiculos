@@ -1,0 +1,7 @@
+C:\Users\Jorge Luiz\source\repos\Cadastrar_Veiculos\Cadastrar_Veiculos\bin\Debug\Cadastrar_Veiculos.exe.config
+C:\Users\Jorge Luiz\source\repos\Cadastrar_Veiculos\Cadastrar_Veiculos\bin\Debug\Cadastrar_Veiculos.exe
+C:\Users\Jorge Luiz\source\repos\Cadastrar_Veiculos\Cadastrar_Veiculos\bin\Debug\Cadastrar_Veiculos.pdb
+C:\Users\Jorge Luiz\source\repos\Cadastrar_Veiculos\Cadastrar_Veiculos\obj\Debug\Cadastrar_Veiculos.csprojAssemblyReference.cache
+C:\Users\Jorge Luiz\source\repos\Cadastrar_Veiculos\Cadastrar_Veiculos\obj\Debug\Cadastrar_Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Luiz\source\repos\Cadastrar_Veiculos\Cadastrar_Veiculos\obj\Debug\Cadastrar_Veiculos.exe
+C:\Users\Jorge Luiz\source\repos\Cadastrar_Veiculos\Cadastrar_Veiculos\obj\Debug\Cadastrar_Veiculos.pdb
